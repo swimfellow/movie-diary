@@ -13,3 +13,9 @@ table, th, td {
 a {
     color: #bfbfbf;
 }
+
+p#footer {
+    right: 10px;
+    bottom: 5px;
+    position: fixed;
+}
